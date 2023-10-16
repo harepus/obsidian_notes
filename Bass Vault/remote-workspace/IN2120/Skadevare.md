@@ -1,0 +1,10 @@
+- Datavirus
+- Trojaner
+- Løsepengevirus
+- Dataorm
+- Spionvare - Spyware
+- [Exploit](exploit)
+- [Bott-programvare](Bot-programvare)
+- Bakdører
+- Makro-virus
+- Logisk bombe
