@@ -1,1 +1,0 @@
-BFS er en algoritme som starter fra en gitt startnode og utforsker alle naboene til noden før den går videre til neste nivå med naboer. Den bruker en kø for å holde styr på hvilke noder som skal utforskes neste gang. BFS garanterer at den finner den korteste veien mellom to noder i en sammenhengende graf.

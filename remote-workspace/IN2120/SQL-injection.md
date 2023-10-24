@@ -1,1 +1,0 @@
-Misbruker SQL til å få uautorisert utvide-spørring til å få uautorisert tilgang til underliggende databaser.

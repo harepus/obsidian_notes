@@ -1,1 +1,0 @@
-Automatisk spredning av skadevare kan skje f.eks gjennom en dataorm som automatisk sprer seg til andre maskiner.

@@ -1,2 +1,0 @@
-- Bot-nettverk 
-- DDoS-angrep
