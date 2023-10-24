@@ -1,0 +1,1 @@
+Verktøy basert på maskinlæring, falsk lyd og bilde genereres av teknologi basert på dype nevralnettverk.
