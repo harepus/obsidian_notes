@@ -1,0 +1,237 @@
+{
+  "main": {
+    "id": "04948cc3a5df2a23",
+    "type": "split",
+    "children": [
+      {
+        "id": "6e3a0dfad48f8414",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6c89147e7c8de66d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "remote-workspace/IN2090/ukesoppgaver.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0974af5e5da5d19f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "remote-workspace/IN2090/Uke10.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "11a204423a321798",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "remote-workspace/IN2090/Uke9.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5cc06c2fe0a0e02d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "remote-workspace/IN2090/Eksamensplan_2090.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "aa051b710ccbeece",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "remote-workspace/IN2090/eksempel_uke5.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ba06abc7fe6303e6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "remote-workspace/IN2090/Uke6.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "69689bfc1ae00b46",
+    "type": "split",
+    "children": [
+      {
+        "id": "c4c6dda035113d74",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1a2d1549984c0b5e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "1377584c1cf61430",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "654e901286691aec",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "right": {
+    "id": "c3b6b88710171b5c",
+    "type": "split",
+    "children": [
+      {
+        "id": "abefe6347ede3bed",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "148737651c24cd66",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "remote-workspace/IN2090/Uke9.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "025cfa546d4f4f6e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "remote-workspace/IN2090/Uke9.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "cd0cf222c692ad5c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "e3440b21b46b63ad",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "remote-workspace/IN2090/Uke9.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "11a204423a321798",
+  "lastOpenFiles": [
+    "remote-workspace/IN2090/Eksamensplan_2090.md",
+    "remote-workspace/IN2090/ukesoppgaver.md",
+    "remote-workspace/IN2090/Uke9.md",
+    "remote-workspace/IN2090/Uke10.md",
+    "remote-workspace/image-bank/Screenshot 2023-12-05 at 13.37.59.png",
+    "remote-workspace/IN2090/IN2090 - Databaser og datamodellering.md",
+    "remote-workspace/IN2090/Uke6.md",
+    "remote-workspace/IN2120/SQL-injection.md",
+    "remote-workspace/IN2090/uke5.md",
+    "remote-workspace/IN2090/eksempel_uke5.md",
+    "remote-workspace/IN2120/CERT.md",
+    "remote-workspace/image-bank/Screenshot 2023-12-05 at 09.41.02.png",
+    "remote-workspace/image-bank/Pasted image 20231204104410.png",
+    "remote-workspace/image-bank/Pasted image 20231204104300.png",
+    "remote-workspace/image-bank/Pasted image 20231204103851.png",
+    "remote-workspace/image-bank/Pasted image 20231204093826.png",
+    "remote-workspace/image-bank/Screenshot 2023-12-04 at 09.15.47.png",
+    "remote-workspace/image-bank/Pasted image 20231204091924.png",
+    "remote-workspace/image-bank/Pasted image 20231204091847.png",
+    "remote-workspace/image-bank/Pasted image 20231204091747.png",
+    "remote-workspace/IN2010/IN2010 - Algoritmer og Datastrukturer.md",
+    "remote-workspace/IN2010/oblig1.md"
+  ]
+}
